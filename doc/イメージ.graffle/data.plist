@@ -1109,7 +1109,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs28 \cf1 \'93\'fa\'8e\'9e\'81\'462013\'94\'4e7\'8c\'8e28\'93\'fa\'81\'69\'93\'fa\'81\'6a\
-\'81\'40\'81\'40\'81\'40\'8c\'df\'8c\'e312\'8e\'9e\'81\'60\'8c\'df\'8c\'e318\'8e\'9e\
+\'81\'40\'81\'40\'81\'4012\'8e\'9e\'81\'6018\'8e\'9e\
 \'8f\'ea\'8f\'8a\'81\'46\'93\'8c\'8d\'48\'91\'e5\'91\'a0\'91\'4f\'89\'ef\'8a\'d9 1F\
 \'88\'ea\'94\'ca\'8e\'51\'89\'c1\'94\'ef\'81\'46\'91\'e5\'90\'6c\'81\'40\'96\'b3\'97\'bf\
 \'81\'40\'81\'40\'81\'40\'81\'40\'81\'40\'81\'40\'8e\'71\'8b\'9f\'81\'40\'96\'b3\'97\'bf\
@@ -1297,7 +1297,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs24 \cf1 \'8b\'a4\'8d\'c3\'81\'46MongoDB-JP\
-\'81\'40\'81\'40\'81\'40&lt;\'95\'e5\'8f\'57\'92\'86&gt;}</string>
+\'81\'40\'81\'40\'81\'4010gen, Inc}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -5308,7 +5308,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-05-16 04:49:45 +0000</string>
+	<string>2013-06-04 01:54:58 +0000</string>
 	<key>Modifier</key>
 	<string>Fukuzaki Akinobu</string>
 	<key>NotesVisible</key>
@@ -5389,7 +5389,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{207, 0}, {1713, 1058}}</string>
+		<string>{{235, 304}, {1713, 1058}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
