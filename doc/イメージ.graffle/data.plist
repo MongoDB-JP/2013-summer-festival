@@ -534,7 +534,7 @@
 {\colortbl;\red255\green255\blue255;\red255\green161\blue244;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 mongoDB\'82\'cc\'8e\'96\'97\'e1}</string>
+\f0\fs24 \cf2 MongoDB\'82\'cc\'8e\'96\'97\'e1}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -742,7 +742,7 @@
 {\colortbl;\red255\green255\blue255;\red255\green161\blue244;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 \'83\'72\'83\'62\'83\'4f\'83\'62\'83\'66\'81\'5b\'83\'5e}</string>
+\f0\fs24 \cf2 \'83\'72\'83\'62\'83\'4f\'83\'66\'81\'5b\'83\'5e}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -5893,7 +5893,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-07-22 03:31:07 +0000</string>
+	<string>2013-07-22 15:31:30 +0000</string>
 	<key>Modifier</key>
 	<string>Fukuzaki Akinobu</string>
 	<key>NotesVisible</key>
@@ -5974,7 +5974,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{71, 4}, {1355, 1383}}</string>
+		<string>{{59, 27}, {1355, 1383}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -5988,15 +5988,15 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-26, 165}, {610, 622}}</string>
+		<string>{{6.9464285163094805, 25.035714145065572}, {544.6428548240541, 555.35714049272394}}</string>
 		<key>Zoom</key>
-		<real>2</real>
+		<real>2.2400000095367432</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>キャンバス 1</string>
-				<real>2</real>
-				<real>4</real>
+				<real>2.2400000095367432</real>
+				<real>2.119999885559082</real>
 			</array>
 		</array>
 	</dict>
